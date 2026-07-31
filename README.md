@@ -13,21 +13,9 @@
 
 # 👨‍💻 About Me
 
-🎓 B.Tech in Computer Science
+I'm a Computer Science graduate passionate about Data Analytics and turning complex datasets into actionable business insights. I have hands-on experience with Python, SQL, Excel, Power BI, Pandas, NumPy, and data visualization, along with building analytical dashboards and performing exploratory data analysis.
 
-📊 Passionate about **Data Analytics** and **Business Intelligence**
-
-💡 I enjoy solving business problems using data.
-
-🚀 I build interactive dashboards, analyze datasets, and transform raw data into meaningful insights.
-
-🌱 Currently Learning
-
-- Advanced SQL
-- Power BI
-- Excel
-- Python for Data Analytics
-- Machine Learning Basics
+I enjoy working across the complete analytics workflow—from data cleaning and transformation to visualization and reporting. My goal is to build impactful data solutions that help organizations make smarter, data-driven decisions while continuously expanding my expertise in analytics and business intelligence.
 
 🎯 **Goal:** Become a Professional Data Analyst.
 
@@ -44,10 +32,12 @@
 ---
 
 ## 📊 Data Analytics
-
-<p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=excel,powerbi,tableau" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
@@ -57,11 +47,10 @@
 <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 ---
 
 ## 🛠️ Tools
@@ -70,20 +59,16 @@
 <img src="https://skillicons.dev/icons?i=vscode,git,github" />
 </p>
 
-- Jupyter Notebook
-- PostgreSQL
-- MySQL
-
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ---
 
 # 📈 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=peeyush-thakre&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peeyush-thakre&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
@@ -178,7 +163,7 @@ https://github.com/YOUR_USERNAME/Ecommerce-Dashboard
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
+<img src="[https://github-profile-trophy.vercel.app/?username=peeyush-thakre&theme=tokyonight&row=1&column=7](https://github-profile-trophy.vercel.app/?username=peeyush-thakre&theme=tokyonight)"/>
 
 </p>
 
@@ -188,7 +173,7 @@ https://github.com/YOUR_USERNAME/Ecommerce-Dashboard
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=peeyush-thakre&theme=tokyo-night"/>
 
 </p>
 

@@ -100,7 +100,7 @@ I enjoy working across the complete analytics workflow—from data cleaning and 
 - 🚚 Ship Mode Analysis
 - 📅 Year-wise Analysis
 
-🔗 **Repository:** https://github.com/peeyush-thakre/sales dashboard.png
+🔗 **Repository:** [Sales-Data-Dashboard](https://github.com/peeyush-thakre/Sales-Data-Dashboard)
 
 ---
 

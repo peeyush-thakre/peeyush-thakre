@@ -62,20 +62,6 @@ I enjoy working across the complete analytics workflow—from data cleaning and 
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=peeyush-thakre&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peeyush-thakre&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
 
 ---
 
@@ -159,35 +145,14 @@ https://github.com/YOUR_USERNAME/Ecommerce-Dashboard
 
 ---
 
-# 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="[https://github-profile-trophy.vercel.app/?username=peeyush-thakre&theme=tokyonight&row=1&column=7](https://github-profile-trophy.vercel.app/?username=peeyush-thakre&theme=tokyonight)"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=peeyush-thakre&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-# 📈 GitHub Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=peeyush-thakre&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
 
 # 🌐 Connect With Me
 

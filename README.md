@@ -132,7 +132,7 @@ An interactive HTML dashboard was created to bring the visualizations and insigh
 
 ### 🔗 Repository
 
-**[Google-Playstore-Data-Analysis](https://github.com/peeyush-thakre/Google-Playstore-Data-Analysis)**
+**[Google-Playstore-Data-Analysis](https://github.com/peeyush-thakre/Google-Play-store-data-analytics)**
 
 ---
 

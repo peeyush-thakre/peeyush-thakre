@@ -90,58 +90,49 @@ I enjoy working across the complete analytics workflow—from data cleaning and 
 
 ---
 
-## 📌 HR Analytics Dashboard
+## 📱 Google Play Store Data Analysis
 
-**Tools**
-
-- Power BI
-- Excel
-
-🔗 Repository
-
-https://github.com/YOUR_USERNAME/HR-Analytics
-
----
-
-## 📌 Customer Churn Analysis
-
-**Tools**
-
-- Python
-- SQL
-- Pandas
-
-🔗 Repository
-
-https://github.com/YOUR_USERNAME/Customer-Churn
-
----
-
-## 📌 Netflix Data Analysis
-
-**Tools**
+### 🛠️ Tools Used
 
 - Python
 - Pandas
-- Matplotlib
+- NumPy
+- Plotly
+- NLTK / VADER
+- Scikit-learn
+- Jupyter Notebook
+- HTML / CSS / JavaScript
 
-🔗 Repository
+### ⭐ Features
 
-https://github.com/YOUR_USERNAME/Netflix-Analysis
+- 🧹 Data Cleaning & Preprocessing
+- 🔄 Data Transformation & Feature Engineering
+- 📊 Exploratory Data Analysis (EDA)
+- 📱 App Category & Genre Analysis
+- ⭐ App Rating Analysis
+- 📥 Installation Analysis
+- 💰 Revenue Analysis
+- 🆓 Free vs Paid App Analysis
+- 📈 App Update Trend Analysis
+- 💬 User Review Sentiment Analysis
+- 📊 Interactive Plotly Visualizations
+- 🌐 Interactive HTML Dashboard
 
----
+### 📌 Project Highlights
 
-## 📌 E-Commerce Sales Dashboard
+This project analyzes Google Play Store application data along with user reviews to identify patterns in app categories, ratings, installations, pricing, revenue, updates, and user sentiment.
 
-**Tools**
+The project includes feature engineering such as `Log_Installs`, `Log_Reviews`, `Rating_Group`, `Revenue`, and `Year`. User reviews are analyzed using the VADER sentiment analyzer to generate sentiment scores.
 
-- Power BI
-- SQL
-- Excel
+The analysis produces **10 interactive visualizations**, including category distribution, app type distribution, rating distribution, sentiment distribution, installs by category, update trends, revenue by category, top genres, update-vs-rating analysis, and paid-vs-free rating comparison.
 
-🔗 Repository
+### 📊 Dashboard
 
-https://github.com/YOUR_USERNAME/Ecommerce-Dashboard
+An interactive HTML dashboard was created to bring the visualizations and insights together in a single web-based interface.
+
+### 🔗 Repository
+
+**[Google-Playstore-Data-Analysis](https://github.com/peeyush-thakre/Google-Playstore-Data-Analysis)**
 
 ---
 
@@ -158,11 +149,11 @@ https://github.com/YOUR_USERNAME/Ecommerce-Dashboard
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/peeyush-thakre-91b20a251/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:piyushthakre69@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 

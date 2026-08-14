@@ -150,7 +150,7 @@ An interactive HTML dashboard was created to bring the visualizations and insigh
 <p align="center">
 
 <a href="https://www.linkedin.com/in/peeyush-thakre-91b20a251/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:piyushthakre69@gmail.com">

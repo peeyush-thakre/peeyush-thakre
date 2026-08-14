@@ -154,7 +154,7 @@ An interactive HTML dashboard was created to bring the visualizations and insigh
 </a>
 
 <a href="mailto:piyushthakre69@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Blue?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="YOUR_PORTFOLIO">

@@ -86,7 +86,7 @@ I enjoy working across the complete analytics workflow—from data cleaning and 
 - 🚚 Ship Mode Analysis
 - 📅 Year-wise Analysis
 
-🔗 **Repository:** [Sales-Data-Dashboard](https://github.com/peeyush-thakre/Sales-Data-Dashboard)
+🔗 **Repository :** [Sales-Data-Dashboard](https://github.com/peeyush-thakre/Sales-Data-Dashboard)
 
 ---
 
@@ -130,9 +130,7 @@ The analysis produces **10 interactive visualizations**, including category dist
 
 An interactive HTML dashboard was created to bring the visualizations and insights together in a single web-based interface.
 
-### 🔗 Repository
-
-**[Google-Playstore-Data-Analysis](https://github.com/peeyush-thakre/Google-Play-store-data-analytics)**
+🔗 **Repository :**  [Google-Playstore-Data-Analysis](https://github.com/peeyush-thakre/Google-Play-store-data-analytics)
 
 ---
 
@@ -157,11 +155,11 @@ An interactive HTML dashboard was created to bring the visualizations and insigh
 <img src="https://img.shields.io/badge/Gmail-Blue?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
+<a href="[GITHUB-PORTFOLIO](https://github.com/peeyush-thakre)">
 <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"/>
 </a>
 
-<a href="YOUR_RESUME">
+<a href="peeyush-thakre">
 <img src="https://img.shields.io/badge/Resume-success?style=for-the-badge"/>
 </a>
 

@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # 👋 Hi, I'm Peeyush Thakre
@@ -6,16 +7,15 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Power+BI+Developer;SQL+Enthusiast;Python+Developer;Turning+Data+Into+Insights!" />
 
-  
 </div>
 
 ---
 
 # 👨‍💻 About Me
 
-I'm a Computer Science graduate passionate about Data Analytics and turning complex datasets into actionable business insights. I have hands-on experience with Python, SQL, Excel, Power BI, Pandas, NumPy, and data visualization, along with building analytical dashboards and performing exploratory data analysis.
+I'm a Computer Science graduate passionate about Data Analytics and building practical data-driven applications. I have hands-on experience with Python, SQL, Excel, Power BI, Pandas, NumPy, SQLite, and Streamlit, along with data cleaning, visualization, dashboard development, and database-driven application development.
 
-I enjoy working across the complete analytics workflow—from data cleaning and transformation to visualization and reporting. My goal is to build impactful data solutions that help organizations make smarter, data-driven decisions while continuously expanding my expertise in analytics and business intelligence.
+I enjoy working across the complete analytics workflow—from data cleaning and transformation to visualization, reporting, and building interactive applications. My goal is to build impactful data solutions that help organizations make smarter, data-driven decisions while continuously expanding my expertise in analytics and business intelligence.
 
 🎯 **Goal:** Become a Professional Data Analyst.
 
@@ -32,22 +32,31 @@ I enjoy working across the complete analytics workflow—from data cleaning and 
 ---
 
 ## 📊 Data Analytics
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
-## 📚 Libraries
+## 📚 Python Libraries
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+---
+
+## 🌐 Application Development
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
 ---
 
 ## 🛠️ Tools
@@ -57,8 +66,9 @@ I enjoy working across the complete analytics workflow—from data cleaning and 
 </p>
 
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -82,8 +92,49 @@ I enjoy working across the complete analytics workflow—from data cleaning and 
 - 📍 Region & State Filters
 - 🚚 Ship Mode Analysis
 - 📅 Year-wise Analysis
+- 💰 Sales & Profit Analysis
+- 👥 Customer Segment Analysis
 
-🔗 **Repository :** [Sales-Data-Dashboard](https://github.com/peeyush-thakre/Sales-Data-Dashboard)
+🔗 **Repository:** [Sales-Data-Dashboard](https://github.com/peeyush-thakre/Sales-Data-Dashboard)
+
+---
+
+## 💼 Smart Job Application Tracker
+
+### 🛠️ Tools Used
+
+- Python
+- SQLite
+- Streamlit
+- Pandas
+- SQL
+
+### ⭐ Features
+
+- 📋 Job Application Management
+- ➕ Add Job Applications
+- ✏️ Edit Applications
+- 🗑️ Delete Applications
+- 🔍 Search Applications
+- 🔎 Filter Applications by Status
+- 📊 Application Dashboard
+- 🎯 Interview Tracking
+- 🔔 Follow-up Tracking
+- 📥 CSV Export
+- 🗄️ SQLite Database
+- 🔄 CRUD Operations
+
+### 📌 Project Highlights
+
+Developed an interactive **Job Application Tracking System** using Python, SQLite, and Streamlit to manage job applications, interviews, and follow-up activities.
+
+The application uses a relational SQLite database to store application, interview, and follow-up information. Python functions and SQL queries handle database operations including **INSERT, SELECT, UPDATE, and DELETE**.
+
+A Streamlit dashboard provides an interactive interface for monitoring application progress through metrics such as **Total Applications, Applied, Pending, Interview, Selected, and Rejected**.
+
+The application also includes application search and filtering, interview tracking, follow-up management, and CSV data export using Pandas.
+
+🔗 **Repository:** [Smart-Job-Application-Tracker](https://github.com/peeyush-thakre/Smart-Job-Application-Tracker)
 
 ---
 
@@ -127,18 +178,63 @@ The analysis produces **10 interactive visualizations**, including category dist
 
 An interactive HTML dashboard was created to bring the visualizations and insights together in a single web-based interface.
 
-🔗 **Repository :**  [Google-Playstore-Data-Analysis](https://github.com/peeyush-thakre/Google-Play-store-data-analytics)
+🔗 **Repository:** [Google-Playstore-Data-Analysis](https://github.com/peeyush-thakre/Google-Play-store-data-analytics)
 
 ---
 
-## 📈 Contribution Graph
+# 🧠 Core Skills
+
+### Data Analysis
+
+- Data Cleaning
+- Data Transformation
+- Exploratory Data Analysis
+- Data Visualization
+- KPI Reporting
+- Business Insights
+- Data Storytelling
+
+### SQL & Databases
+
+- MySQL
+- SQLite
+- PostgreSQL
+- SELECT Queries
+- JOINs
+- GROUP BY
+- Aggregations
+- Subqueries
+- CRUD Operations
+- Relational Database Concepts
+
+### Business Intelligence
+
+- Power BI
+- Power Query
+- DAX
+- Data Modeling
+- KPI Dashboards
+- Interactive Reports
+- Filters & Slicers
+
+### Python
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Streamlit
+
+---
+
+# 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=peeyush-thakre&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
-
 
 # 🌐 Connect With Me
 
@@ -152,12 +248,8 @@ An interactive HTML dashboard was created to bring the visualizations and insigh
 <img src="https://img.shields.io/badge/Gmail-Blue?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="[GITHUB-PORTFOLIO](https://github.com/peeyush-thakre)">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"/>
-</a>
-
-<a href="peeyush-thakre">
-<img src="https://img.shields.io/badge/Resume-success?style=for-the-badge"/>
+<a href="https://github.com/peeyush-thakre">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
@@ -173,3 +265,4 @@ An interactive HTML dashboard was created to bring the visualizations and insigh
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:6C63FF&height=120&section=footer"/>
 
 </div>
+```

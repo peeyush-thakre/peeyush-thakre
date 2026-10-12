@@ -111,6 +111,48 @@ Used interactive **filters, slicers, maps, and visualizations** to identify sale
 
 ---
 
+## 👥 HR Employee Attrition Analysis
+
+### 🛠️ Tools Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- MySQL
+- Power BI
+- Jupyter Notebook
+- DAX / Power Query
+
+### ⭐ Features
+
+- 📊 Employee Attrition Rate Analysis
+- 🏢 Department-wise Attrition
+- 💼 Job Role Analysis
+- ⏱️ Overtime and Attrition Analysis
+- 😊 Job Satisfaction Analysis
+- 💰 Monthly Income Comparison
+- 📍 Distance from Home Analysis
+- 🧹 Data Quality Checks and Data Cleaning
+- 🔎 Exploratory Data Analysis (EDA)
+- 🗄️ SQL-based HR Reporting
+- 📈 Power BI Reporting
+
+### 📌 Project Highlights
+
+Analyzed employee attrition data to identify patterns across **departments, job roles, overtime, job satisfaction, monthly income, and tenure**.
+
+Performed data quality checks and exploratory data analysis using **Python, Pandas, NumPy, Matplotlib, and Seaborn** to understand employee retention trends.
+
+Wrote **MySQL queries** for employee counts, department analysis, income comparisons, tenure categories, and exploratory attrition risk scoring.
+
+Used **Power BI** to explore HR metrics and present attrition-related insights through reporting and visualizations.
+
+🔗 **Repository:** [HR_Employee_Attrition_Analysis](https://github.com/peeyush-thakre/HR_Employee_Attrition_Analysis)
+
+---
+
 ## 💼 Smart Job Application Tracker
 
 ### 🛠️ Tools Used

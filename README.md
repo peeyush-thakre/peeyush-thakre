@@ -230,7 +230,7 @@ Used **VADER sentiment analysis** to analyze user reviews and created interactiv
 
 Built an interactive HTML dashboard combining multiple visualizations and analytical insights.
 
-🔗 **Repository:** [Google-Play-store-data-analytics](https://github.com/peeyush-thakre/Google-Play-store-data-analytics)
+🔗 **Repository:** [Google-Play-store-data-analytics]([https://github.com/peeyush-thakre/Google-Play-store-data-analytics](https://github.com/peeyush-thakre/Google-Play-store-Analysis))
 
 ---
 

@@ -16,7 +16,7 @@ I'm a Computer Science graduate passionate about **Data Analytics, Business Inte
 
 I have hands-on experience with **Python, SQL, Excel, Power BI, Pandas, NumPy, SQLite, and Streamlit**, along with data cleaning, transformation, visualization, dashboard development, and database-driven application development.
 
-I also enjoy building responsive web applications using **HTML5, CSS3, JavaScript, and jQuery**, particularly for data presentation, content management, and marketing operations.
+I also enjoy building responsive web applications using **HTML5, CSS3, JavaScript** particularly for data presentation, content management, and marketing operations.
 
 I enjoy working across the complete analytics workflow — from **data cleaning and transformation to analysis, visualization, reporting, and interactive application development**.
 

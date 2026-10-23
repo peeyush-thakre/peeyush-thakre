@@ -373,7 +373,7 @@ Used **JavaScript/jQuery for form validation, DOM manipulation, dynamic tables, 
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for visiting my profile !
 
 ### 📊 *"Without Data, You're Just Another Person With an Opinion."*
 
